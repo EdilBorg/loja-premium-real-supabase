@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{color-scheme:dark} body{background:#07040d;color:#fff} .glass{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.11);backdrop-filter:blur(18px)} .btn{border-radius:999px;padding:.8rem 1.2rem;font-weight:800;transition:.2s}.btn-primary{background:linear-gradient(135deg,#f43f5e,#f59e0b);color:white;box-shadow:0 20px 50px rgba(244,63,94,.25)}.btn-dark{background:#111827;color:white}.input{width:100%;border-radius:18px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);padding:.85rem 1rem;outline:none}.input:focus{border-color:#fb7185}.card{border-radius:28px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);box-shadow:0 25px 80px rgba(0,0,0,.22)}
